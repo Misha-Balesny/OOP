@@ -1,0 +1,9 @@
+C:\Users\миша\source\repos\Addon\bin\Debug\Addon.dll
+C:\Users\миша\source\repos\Addon\bin\Debug\Addon.pdb
+C:\Users\миша\source\repos\Addon\bin\Debug\WpfApp2.exe
+C:\Users\миша\source\repos\Addon\bin\Debug\WpfApp2.pdb
+C:\Users\миша\source\repos\Addon\bin\Debug\WpfApp2.exe.config
+C:\Users\миша\source\repos\Addon\obj\Debug\Addon.csprojAssemblyReference.cache
+C:\Users\миша\source\repos\Addon\obj\Debug\Addon.csproj.CopyComplete
+C:\Users\миша\source\repos\Addon\obj\Debug\Addon.dll
+C:\Users\миша\source\repos\Addon\obj\Debug\Addon.pdb

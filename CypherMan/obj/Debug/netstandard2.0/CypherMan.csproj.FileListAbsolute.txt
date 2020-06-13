@@ -1,0 +1,8 @@
+C:\Users\миша\source\repos\CypherMan\bin\Debug\netstandard2.0\CypherMan.deps.json
+C:\Users\миша\source\repos\CypherMan\bin\Debug\netstandard2.0\CypherMan.dll
+C:\Users\миша\source\repos\CypherMan\bin\Debug\netstandard2.0\CypherMan.pdb
+C:\Users\миша\source\repos\CypherMan\obj\Debug\netstandard2.0\CypherMan.csprojAssemblyReference.cache
+C:\Users\миша\source\repos\CypherMan\obj\Debug\netstandard2.0\CypherMan.AssemblyInfoInputs.cache
+C:\Users\миша\source\repos\CypherMan\obj\Debug\netstandard2.0\CypherMan.AssemblyInfo.cs
+C:\Users\миша\source\repos\CypherMan\obj\Debug\netstandard2.0\CypherMan.dll
+C:\Users\миша\source\repos\CypherMan\obj\Debug\netstandard2.0\CypherMan.pdb

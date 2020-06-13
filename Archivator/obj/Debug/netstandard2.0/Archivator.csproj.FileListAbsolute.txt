@@ -1,0 +1,8 @@
+C:\Users\миша\source\repos\Archivator\bin\Debug\netstandard2.0\Archivator.deps.json
+C:\Users\миша\source\repos\Archivator\bin\Debug\netstandard2.0\Archivator.dll
+C:\Users\миша\source\repos\Archivator\bin\Debug\netstandard2.0\Archivator.pdb
+C:\Users\миша\source\repos\Archivator\obj\Debug\netstandard2.0\Archivator.csprojAssemblyReference.cache
+C:\Users\миша\source\repos\Archivator\obj\Debug\netstandard2.0\Archivator.AssemblyInfoInputs.cache
+C:\Users\миша\source\repos\Archivator\obj\Debug\netstandard2.0\Archivator.AssemblyInfo.cs
+C:\Users\миша\source\repos\Archivator\obj\Debug\netstandard2.0\Archivator.dll
+C:\Users\миша\source\repos\Archivator\obj\Debug\netstandard2.0\Archivator.pdb
